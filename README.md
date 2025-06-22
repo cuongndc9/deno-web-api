@@ -3,5 +3,5 @@
 
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-> "The only way to do great work is to love what you do." - Steve Jobs
+> "If you are working on something that you really care about, you don't have to be pushed. The vision pulls you." - Steve Jobs
 <!-- INSPIRATIONAL_QUOTE_END -->
