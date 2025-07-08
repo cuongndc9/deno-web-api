@@ -3,5 +3,5 @@
 
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-> "Innovation distinguishes between a leader and a follower." - Steve Jobs
+> "In the middle of difficulty lies opportunity." - Albert Einstein
 <!-- INSPIRATIONAL_QUOTE_END -->
